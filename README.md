@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Versaõ&message=1.0&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 
 <h1 align="center">Cotação Bovespa</h1>
