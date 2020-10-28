@@ -1,5 +1,5 @@
-# Cotação de ativo de Bovespa
 
+<h1 align="center">Cotação Bovespa</h1>
 
 Esses programas tem a finalidade de consultar ativos da Bovespa e gerar gráfico de candlestick, utilizando a linguagem  de programação python.
 
