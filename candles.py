@@ -9,8 +9,8 @@ import plotly.graph_objects as go
 import plotly
 import os
 
-if not os.path.exists("images"):
-    os.mkdir("images")
+if not os.path.exists("relatorio"):
+    os.mkdir("relatorio")
 
 ativo="PETR4.SA" 
 start_date = '2020-10-19'
