@@ -1,4 +1,5 @@
-https://img.shields.io/static/v1?label=<LABEL>&message=<Versão1.0>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
 
 <h1 align="center">Cotação Bovespa</h1>
 
