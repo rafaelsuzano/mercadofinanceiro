@@ -1,2 +1,11 @@
-# Mercado Financeiro 
-Consulta de ativos com api yahoo finance.
+# Cotação de ativo de Bovespa
+
+
+Esses programas tem a finalidade de consultar ativos da Bovespa e gerar gráfico de candlestick, utilizando a linguagem  de programação python.
+
+#Arquivos.
+	
+
+ - [candle.py](https://github.com/rafaelsuzano/mercadofinanceiro/blob/main/candles.py)
+		Após executar esse programa é gerado um relatório do ativo informado.	
+			 Váriaveis (ativo,start_date,end_date)
