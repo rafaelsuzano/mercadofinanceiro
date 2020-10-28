@@ -10,7 +10,7 @@ Esse projeto tem a finalidade de consultar ativos da Bovespa e gerar gráfico de
 
 
 
-Tabela de conteúdos
+Sumário
 =================
 <!--ts-->
    * [Sobre](#Sobre)
@@ -22,6 +22,5 @@ Tabela de conteúdos
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   *    * [Tecnologias](#tecnologias)
 <!--te-->
