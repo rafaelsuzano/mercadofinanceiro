@@ -16,5 +16,7 @@ Esse projeto tem a finalidade de consultar ativos da Bovespa e gerar gráfico de
 
 pip install requirements.txt 
 
+Após execução python carteira_intraday.py
+
 ![image](https://user-images.githubusercontent.com/25907317/158449490-6d6aaad4-45bc-43a0-a242-9ad3c2a01334.png)
 
