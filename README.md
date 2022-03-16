@@ -18,5 +18,4 @@ pip install requirements.txt
 
 Após execução python carteira_intraday.py
 
-![image](https://user-images.githubusercontent.com/25907317/158449490-6d6aaad4-45bc-43a0-a242-9ad3c2a01334.png)
-
+![carteira_intraday py-Sem-título-_Workspace_-Visual-Studio-Code-2022-03-15-15-54-59](https://user-images.githubusercontent.com/25907317/158672851-5378c9f2-f794-4679-9afe-f451a6987023.gif)
