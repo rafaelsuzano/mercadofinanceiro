@@ -19,3 +19,6 @@ pip install requirements.txt
 Após execução python carteira_intraday.py
 
 ![carteira_intraday py-Sem-título-_Workspace_-Visual-Studio-Code-2022-03-15-15-54-59](https://user-images.githubusercontent.com/25907317/158672851-5378c9f2-f794-4679-9afe-f451a6987023.gif)
+
+Após executar python candles.py
+![newplot](https://user-images.githubusercontent.com/25907317/158716480-39dcaea2-a6ff-4866-9735-4f824248e36d.png)
